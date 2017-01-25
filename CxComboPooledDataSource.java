@@ -1,9 +1,4 @@
-package clari5.sso;
 
-import clari5.platform.dbcon.DbTypeEnum;
-import clari5.platform.dbcon.Pw;
-import clari5.platform.exceptions.RuntimeFatalException;
-import clari5.platform.util.Hocon;
 import com.mchange.v2.c3p0.AbstractComboPooledDataSource;
 
 import java.beans.PropertyVetoException;
